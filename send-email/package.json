@@ -1,0 +1,8 @@
+{
+  "name": "send-email",
+  "version": "0.0.1",
+  "dependencies": {
+    "@sendgrid/mail": "^6.3.1",
+    "mustache": "^3.0.1"
+  }
+}

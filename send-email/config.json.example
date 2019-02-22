@@ -1,0 +1,7 @@
+{
+  "API_KEY": "",
+  "FROM": "email@email.com",
+  "SUBJECT": "New request from {{name}}",
+  "TEXT": "Your name is {{name}}",
+  "HTML": "Your name is <strong>{{name}}</strong>"
+}
