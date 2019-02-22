@@ -8,4 +8,5 @@
 * Create `config.json` - use `config.json.example` as a template
 * Archive the code as a zip file
 * Upload the zip file to Google Cloud Functions
+* Configure **Function to execute** to `sendMail`
 * Integrate your new endpoint
